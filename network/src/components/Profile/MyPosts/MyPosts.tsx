@@ -4,7 +4,11 @@ import Post from "./Post";
 const MyPosts = () => {
     return (
         <div>
-            <textarea></textarea>
+            <h3>My posts</h3>
+            <div>
+                <textarea></textarea>
+            </div>
+
             <button>Add post</button>
             <button>Remove</button>
             <div>
